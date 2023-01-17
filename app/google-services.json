@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790178790862",
+    "project_id": "stroke-prediction-app",
+    "storage_bucket": "stroke-prediction-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790178790862:android:ccf6b87ade7938278aff9f",
+        "android_client_info": {
+          "package_name": "com.project.strokepredictionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790178790862-gqfde291ig7fs3h7ed033mbanq9i8gco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtT_o6-x_4Oo3ovT6Yi66gOooeOENiX3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790178790862-gqfde291ig7fs3h7ed033mbanq9i8gco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
